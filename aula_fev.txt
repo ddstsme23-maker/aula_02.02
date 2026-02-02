@@ -1,2 +1,6 @@
 primeira aula de fevereiro
+<<<<<<< HEAD
 git pull = trazer do repositorio online\remoto pra o repositorio local 
+=======
+git pull
+concerto
