@@ -1,1 +1,2 @@
 primeira aula de fevereiro
+git pull = trazer do repositorio online\remoto pra o repositorio local 
